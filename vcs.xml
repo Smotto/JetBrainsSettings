@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/csc317-01-fall2019/csc317-code-Smotto/tree/assignment3" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/csc317-01-fall2019/csc317-termproject-team07.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/CSC317" />
