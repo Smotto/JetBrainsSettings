@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/londonappbrewery/mi_card_flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/londonappbrewery/dicee-flutter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Lazyf\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\Lazyf\Documents\Coding Projects\FlutterAppProjects" />
   </component>
 </application>
