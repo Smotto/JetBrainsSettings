@@ -66,8 +66,12 @@
           <option name="url" value="https://github.com/londonappbrewery/state_management-flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Smotto/fitnessapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Lazyf\Documents\Coding Projects\FlutterAppProjects" />
+    <option name="cloneParentDir" value="C:\Users\Lazyf\Documents\CodingProjects\FlutterApps" />
   </component>
 </application>
